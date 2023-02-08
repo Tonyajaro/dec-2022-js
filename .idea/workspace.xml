@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f911d8-8b5a-4bd4-9d8e-db696681134d" name="Changes" comment="losson1">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2/main.js" afterDir="false" />
+    <list default="true" id="52f911d8-8b5a-4bd4-9d8e-db696681134d" name="Changes" comment="lesson2">
+      <change afterPath="$PROJECT_DIR$/lessons/lessons3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lessons3/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675195451597</updated>
-      <workItem from="1675195453889" duration="36351000" />
+      <workItem from="1675195453889" duration="45223000" />
     </task>
     <task id="LOCAL-00001" summary="losson1">
       <created>1675202459418</created>
@@ -64,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675202459418</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson2">
+      <created>1675624084148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675624084148</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +79,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="losson1" />
-    <option name="LAST_COMMIT_MESSAGE" value="losson1" />
+    <MESSAGE value="losson2" />
+    <MESSAGE value="lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson2" />
   </component>
 </project>
